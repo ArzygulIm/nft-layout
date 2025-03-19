@@ -800,3 +800,8 @@ header nav ul li a {
   line-height: 140%;
   color: #2b2b2b;
 }
+
+.footer-first__wrap{
+  display: flex;
+  justify-content: space-between;
+}
