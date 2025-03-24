@@ -804,4 +804,14 @@ header nav ul li a {
 .footer-first__wrap{
   display: flex;
   justify-content: space-between;
+
+}
+
+footer p{
+  font-family: Work Sans;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+color: #CCCCCC;
+
 }
