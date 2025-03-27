@@ -731,6 +731,13 @@ header nav ul li a {
   background-position: 0 -50px;
 }
 
+.join__wrap form {
+  margin: 20px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
 .join__wrap form h6 {
   font-family: "Work Sans";
   font-style: normal;
@@ -750,6 +757,7 @@ header nav ul li a {
   line-height: 160%;
   text-transform: capitalize;
   color: #ffffff;
+  margin: 0 0 30px 0;
 }
 
 .join__wrap form div {
@@ -801,17 +809,38 @@ header nav ul li a {
   color: #2b2b2b;
 }
 
-.footer-first__wrap{
-  display: flex;
-  justify-content: space-between;
-
+footer {
+  padding: 30px 0;
+  background: #3b3b3b;
 }
 
-footer p{
-  font-family: Work Sans;
-font-weight: 400;
-font-size: 16px;
-line-height: 140%;
-color: #CCCCCC;
+.footer__wrap {
+  padding: 40px 0;
+}
+.footer-first__wrap {
+  display: flex;
+  justify-content: space-between;
+}
 
+.footer-first__wrap div {
+  display: flex;
+  flex-direction: column;
+  row-gap: 21px;
+}
+
+footer p {
+  font-family: Work Sans;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  color: #cccccc;
+}
+
+footer h6 {
+  font-family: Space Mono;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 160%;
+  letter-spacing: 0%;
+  text-transform: capitalize;
 }
