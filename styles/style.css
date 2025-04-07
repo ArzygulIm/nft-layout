@@ -822,14 +822,14 @@ footer {
   justify-content: space-between;
 }
 
-.footer-first__wrap div {
+.footer-first__div {
   display: flex;
   flex-direction: column;
   row-gap: 21px;
 }
 
 footer p {
-  font-family: Work Sans;
+  font-family: "Work Sans";
   font-weight: 400;
   font-size: 16px;
   line-height: 140%;
@@ -837,7 +837,7 @@ footer p {
 }
 
 footer h6 {
-  font-family: Space Mono;
+  font-family: "Space Mono";
   font-weight: 700;
   font-size: 22px;
   line-height: 160%;
