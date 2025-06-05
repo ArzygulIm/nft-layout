@@ -731,14 +731,14 @@ header nav ul li a {
   background-position: 0 -50px;
 }
 
-.join__wrap form {
+.join__wrap form, footer form {
   margin: 20px 0 0 0;
   display: flex;
   flex-direction: column;
   row-gap: 10px;
 }
 
-.join__wrap form h6 {
+.join__wrap form h6{
   font-family: "Work Sans";
   font-style: normal;
   font-weight: 600;
@@ -760,7 +760,7 @@ header nav ul li a {
   margin: 0 0 30px 0;
 }
 
-.join__wrap form div {
+.join__wrap form div, footer form div{
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -771,7 +771,7 @@ header nav ul li a {
   border-radius: 20px;
 }
 
-.join__wrap form div button {
+.join__wrap form div button, footer form button {
   padding: 0px 45px;
   display: flex;
   flex-direction: row;
@@ -790,7 +790,7 @@ header nav ul li a {
   color: #ffffff;
 }
 
-.join__wrap form div input {
+.join__wrap form div input, footer form input {
   width: 100%;
   height: 100%;
   background: #ffffff;
@@ -800,7 +800,7 @@ header nav ul li a {
   text-indent: 20px;
 }
 
-.join__wrap form div input::placeholder {
+.join__wrap form div input::placeholder, footer form input::placeholder {
   font-family: "Work Sans";
   font-style: normal;
   font-weight: 400;
@@ -828,6 +828,11 @@ footer {
   row-gap: 21px;
 }
 
+.footer-first__div div{
+  display: flex;
+  
+}
+
 footer p {
   font-family: "Work Sans";
   font-weight: 400;
@@ -844,3 +849,4 @@ footer h6 {
   letter-spacing: 0%;
   text-transform: capitalize;
 }
+
