@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "title": "Magic Mushrooms",
+    "author": {
+      "name": "Shroomie",
+      "avatar": "images/creators/creator1.png"
+    },
+    "mintedOn": "2023-10-01",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original1",
+      "etherscan": "https://etherscan.io/token/0xaaa111"
+    },
+    "tags": ["mushroom", "psychedelic", "neon", "AI Art"],
+    "isTrending": true,
+    "end": "2023-10-31 23:59:59"
+  },
+  {
+    "id": 2,
+    "title": "Neon Cat",
+    "author": {
+      "name": "NeonNeko",
+      "avatar": "images/creators/creator2.png"
+    },
+    "mintedOn": "2023-09-20",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original2",
+      "etherscan": "https://etherscan.io/token/0xaab222"
+    },
+    "tags": ["cat", "neon", "cyberpunk"],
+    "isTrending": true,
+    "end": "2023-10-15 22:00:00"
+  },
+  {
+    "id": 3,
+    "title": "Pixel Raccoon",
+    "author": {
+      "name": "Raccode",
+      "avatar": "images/creators/creator3.png"
+    },
+    "mintedOn": "2023-08-15",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original3",
+      "etherscan": "https://etherscan.io/token/0xaac333"
+    },
+    "tags": ["raccoon", "pixel", "retro"],
+    "isTrending": false,
+    "end": "2023-09-30 21:00:00"
+  },
+  {
+    "id": 4,
+    "title": "Dreamy Owl",
+    "author": {
+      "name": "OwlKing",
+      "avatar": "images/creators/creator4.png"
+    },
+    "mintedOn": "2023-07-01",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original4",
+      "etherscan": "https://etherscan.io/token/0xaad444"
+    },
+    "tags": ["owl", "dreamy", "surreal"],
+    "isTrending": true,
+    "end": "2023-08-01 12:00:00"
+  },
+  {
+    "id": 5,
+    "title": "Synth Dog",
+    "author": {
+      "name": "CanineX",
+      "avatar": "images/creators/creator5.png"
+    },
+    "mintedOn": "2023-09-01",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original5",
+      "etherscan": "https://etherscan.io/token/0xaae555"
+    },
+    "tags": ["dog", "synthwave", "robotic"],
+    "isTrending": false,
+    "end": "2023-10-05 00:00:00"
+  },
+  {
+    "id": 6,
+    "title": "Futuristic Fox",
+    "author": {
+      "name": "Vulpex",
+      "avatar": "images/creators/creator6.png"
+    },
+    "mintedOn": "2023-06-10",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original6",
+      "etherscan": "https://etherscan.io/token/0xaaf666"
+    },
+    "tags": ["fox", "futuristic", "glow"],
+    "isTrending": true,
+    "end": "2023-07-10 12:30:00"
+  },
+  {
+    "id": 7,
+    "title": "Astral Whale",
+    "author": {
+      "name": "DeepSeaDev",
+      "avatar": "images/creators/creator7.png"
+    },
+    "mintedOn": "2023-05-01",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original7",
+      "etherscan": "https://etherscan.io/token/0xaag777"
+    },
+    "tags": ["whale", "space", "cosmic"],
+    "isTrending": false,
+    "end": "2023-06-01 11:11:11"
+  },
+  {
+    "id": 8,
+    "title": "Electric Parrot",
+    "author": {
+      "name": "ParraSpark",
+      "avatar": "images/creators/creator8.png"
+    },
+    "mintedOn": "2023-11-01",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original8",
+      "etherscan": "https://etherscan.io/token/0xaah888"
+    },
+    "tags": ["parrot", "electric", "glitch"],
+    "isTrending": true,
+    "end": "2023-12-01 00:00:00"
+  },
+  {
+    "id": 9,
+    "title": "Golden Deer",
+    "author": {
+      "name": "Majestiq",
+      "avatar": "images/creators/creator9.png"
+    },
+    "mintedOn": "2023-02-14",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original9",
+      "etherscan": "https://etherscan.io/token/0xaai999"
+    },
+    "tags": ["deer", "gold", "fantasy"],
+    "isTrending": false,
+    "end": "2023-03-01 19:00:00"
+  },
+  {
+    "id": 10,
+    "title": "Cyber Tiger",
+    "author": {
+      "name": "MetaFur",
+      "avatar": "images/creators/creator10.png"
+    },
+    "mintedOn": "2023-01-10",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original10",
+      "etherscan": "https://etherscan.io/token/0xaajaaa"
+    },
+    "tags": ["tiger", "cyber", "neon"],
+    "isTrending": true,
+    "end": "2023-02-10 21:00:00"
+  },
+  {
+    "id": 11,
+    "title": "VR Penguin",
+    "author": {
+      "name": "IceByte",
+      "avatar": "images/creators/creator11.png"
+    },
+    "mintedOn": "2023-03-05",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original11",
+      "etherscan": "https://etherscan.io/token/0xaakbbb"
+    },
+    "tags": ["penguin", "vr", "cool"],
+    "isTrending": false,
+    "end": "2023-04-01 00:00:00"
+  },
+  {
+    "id": 12,
+    "title": "Hologram Horse",
+    "author": {
+      "name": "GallopX",
+      "avatar": "images/creators/creator12.png"
+    },
+    "mintedOn": "2023-04-04",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original12",
+      "etherscan": "https://etherscan.io/token/0.aalccc"
+    },
+    "tags": ["horse", "hologram", "speed"],
+    "isTrending": true,
+    "end": "2023-05-04 17:00:00"
+  },
+  {
+    "id": 13,
+    "title": "Glitch Bunny",
+    "author": {
+      "name": "LagRabbit",
+      "avatar": "images/creators/creator13.png"
+    },
+    "mintedOn": "2023-08-12",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original13",
+      "etherscan": "https://etherscan.io/token/0.aamddd"
+    },
+    "tags": ["bunny", "glitch", "datamosh"],
+    "isTrending": false,
+    "end": "2023-09-12 23:59:59"
+  },
+  {
+    "id": 14,
+    "title": "Galaxy Gecko",
+    "author": {
+      "name": "StarSkin",
+      "avatar": "images/creators/creator14.png"
+    },
+    "mintedOn": "2023-06-30",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original14",
+      "etherscan": "https://etherscan.io/token/0.aaneee"
+    },
+    "tags": ["gecko", "galaxy", "alien"],
+    "isTrending": true,
+    "end": "2023-07-30 20:00:00"
+  },
+  {
+    "id": 15,
+    "title": "Rainbow Rat",
+    "author": {
+      "name": "ColorCheese",
+      "avatar": "images/creators/creator15.png"
+    },
+    "mintedOn": "2023-05-05",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original15",
+      "etherscan": "https://etherscan.io/token/0.aaofff"
+    },
+    "tags": ["rat", "rainbow", "humor"],
+    "isTrending": false,
+    "end": "2023-06-05 18:30:00"
+  },
+  {
+    "id": 16,
+    "title": "Tropical Toad",
+    "author": {
+      "name": "Frogstic",
+      "avatar": "images/creators/creator16.png"
+    },
+    "mintedOn": "2023-09-18",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original16",
+      "etherscan": "https://etherscan.io/token/0.aapggg"
+    },
+    "tags": ["toad", "jungle", "colorful"],
+    "isTrending": true,
+    "end": "2023-10-18 10:10:10"
+  },
+  {
+    "id": 17,
+    "title": "Steampunk Snail",
+    "author": {
+      "name": "Snailgear",
+      "avatar": "images/creators/creator17.png"
+    },
+    "mintedOn": "2023-10-11",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original17",
+      "etherscan": "https://etherscan.io/token/0.aaqhhh"
+    },
+    "tags": ["snail", "steampunk", "cogwheel"],
+    "isTrending": false,
+    "end": "2023-11-11 11:11:11"
+  },
+  {
+    "id": 18,
+    "title": "Lunar Llama",
+    "author": {
+      "name": "MoonMuzzle",
+      "avatar": "images/creators/creator18.png"
+    },
+    "mintedOn": "2023-07-17",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original18",
+      "etherscan": "https://etherscan.io/token/0.aarjjj"
+    },
+    "tags": ["llama", "moon", "serene"],
+    "isTrending": true,
+    "end": "2023-08-17 09:00:00"
+  },
+  {
+    "id": 19,
+    "title": "Mirror Monkey",
+    "author": {
+      "name": "SimianX",
+      "avatar": "images/creators/creator19.png"
+    },
+    "mintedOn": "2023-10-25",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original19",
+      "etherscan": "https://etherscan.io/token/0.aaslll"
+    },
+    "tags": ["monkey", "mirror", "AI Generated"],
+    "isTrending": false,
+    "end": "2023-11-25 12:00:00"
+  },
+  {
+    "id": 20,
+    "title": "Digital Duck",
+    "author": {
+      "name": "Ducko",
+      "avatar": "images/creators/creator20.png"
+    },
+    "mintedOn": "2023-06-06",
+    "description": "",
+    "details": {
+      "original": "https://example.com/original20",
+      "etherscan": "https://etherscan.io/token/0.aatmmm"
+    },
+    "tags": ["duck", "tech", "clean"],
+    "isTrending": true,
+    "end": "2023-07-06 22:22:22"
+  }
+]

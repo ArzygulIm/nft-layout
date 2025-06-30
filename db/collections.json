@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "DSGN Animals",
+    "author": {
+      "name": "MrFox",
+      "avatar": "images/creators/sixthCreator.png"
+    },
+    "itemCount": 1025,
+    "thumbnail": "images/collections/1/main.png",
+    "previews": ["images/collections/1/0.png", "images/collections/1/1.png"],
+    "tags": ["mushroom", "psychedelic", "neon", "AI Art"],
+    "isTrending": true
+  },
+  {
+    "id": 2,
+    "title": "CryptoPunks",
+    "author": {
+      "name": "Larva Labs",
+      "avatar": "images/creators/firstCreator.png"
+    },
+    "itemCount": 10000,
+    "thumbnail": "images/collections/2/main.png",
+    "previews": ["images/collections/2/0.png", "images/collections/2/1.png"],
+    "tags": ["pixel art", "collectible", "crypto"],
+    "isTrending": true
+  },
+  {
+    "id": 3,
+    "title": "Magic Mushrooms",
+    "author": {
+      "name": "Shroomie",
+      "avatar": "images/creators/secondCreator.png"
+    },
+    "itemCount": 10000,
+    "thumbnail": "images/collections/3/main.png",
+    "previews": ["images/collections/3/0.png", "images/collections/3/1.png"],
+    "tags": ["ape", "club", "exclusive"],
+    "isTrending": true
+  },
+  {
+    "id": 4,
+    "title": "Bored Ape Yacht Club",
+    "author": {
+      "name": "Yuga Labs",
+      "avatar": "images/creators/thirdCreator.png"
+    },
+    "itemCount": 10000,
+    "thumbnail": "images/collections/4/main.png",
+    "previews": ["images/collections/4/0.png", "images/collections/4/1.png"],
+    "tags": ["ape", "club", "exclusive"],
+    "isTrending": false
+  },
+  {
+    "id": 5,
+    "title": "Disco Machines",
+    "author": {
+      "name": "BeKind2Robots",
+      "avatar": "images/creators/fourthCreator.png"
+    },
+    "itemCount": 10000,
+    "thumbnail": "images/collections/5/main.png",
+    "previews": ["images/collections/5/0.png", "images/collections/5/1.png"],
+    "tags": ["pixel art", "collectible", "crypto"],
+    "isTrending": false
+  }
+]

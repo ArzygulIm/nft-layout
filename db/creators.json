@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "title": "DSGN Animals",
+    "avatar": "images/creators/creator1.png",
+    "totalSales": 34.53,
+    "volume": "250k",
+    "followers": [],
+    "bio": "",
+    "links": {
+      "website": "https://example.com",
+      "twitter": "https://twitter.com/example",
+      "discord": "https://discord.gg/example"
+    },
+    "createdBy": [],
+    "ownedBy": [],
+    "collections": [1, 2, 3],
+    "coverPhoto": "images/creators/cover1.png"
+  },
+  {
+    "id": 2,
+    "title": "Cyber Cats",
+    "avatar": "images/creators/creator2.png",
+    "totalSales": 58.21,
+    "volume": "180k",
+    "followers": [],
+    "bio": "",
+    "links": {
+      "website": "https://cybercats.com",
+      "twitter": "https://twitter.com/cybercats",
+      "discord": "https://discord.gg/cybercats"
+    },
+    "createdBy": [],
+    "ownedBy": [],
+    "collections": [4, 5],
+    "coverPhoto": "images/creators/cover2.png"
+  },
+  {
+    "id": 3,
+    "title": "Neon Jungle",
+    "avatar": "images/creators/creator3.png",
+    "totalSales": 12.99,
+    "volume": "90k",
+    "followers": [],
+    "bio": "",
+    "links": {
+      "website": "https://neonjungle.io",
+      "twitter": "https://twitter.com/neonjungle",
+      "discord": "https://discord.gg/neonjungle"
+    },
+    "createdBy": [],
+    "ownedBy": [],
+    "collections": [6],
+    "coverPhoto": "images/creators/cover3.png"
+  },
+  {
+    "id": 4,
+    "title": "Pixel Paws",
+    "avatar": "images/creators/creator4.png",
+    "totalSales": 45.60,
+    "volume": "120k",
+    "followers": [],
+    "bio": "",
+    "links": {
+      "website": "https://pixelpaws.io",
+      "twitter": "https://twitter.com/pixelpaws",
+      "discord": "https://discord.gg/pixelpaws"
+    },
+    "createdBy": [],
+    "ownedBy": [],
+    "collections": [7, 8],
+    "coverPhoto": "images/creators/cover4.png"
+  },
+  {
+    "id": 5,
+    "title": "Aqua Beasts",
+    "avatar": "images/creators/creator5.png",
+    "totalSales": 29.10,
+    "volume": "310k",
+    "followers": [],
+    "bio": "",
+    "links": {
+      "website": "https://aquabeasts.io",
+      "twitter": "https://twitter.com/aquabeasts",
+      "discord": "https://discord.gg/aquabeasts"
+    },
+    "createdBy": [],
+    "ownedBy": [],
+    "collections": [9, 10],
+    "coverPhoto": "images/creators/cover5.png"
+  },
+  {
+    "id": 6,
+    "title": "Shroom Kingdom",
+    "avatar": "images/creators/creator6.png",
+    "totalSales": 66.77,
+    "volume": "420k",
+    "followers": [],
+    "bio": "",
+    "links": {
+      "website": "https://shroomkingdom.com",
+      "twitter": "https://twitter.com/shroomkingdom",
+      "discord": "https://discord.gg/shroomkingdom"
+    },
+    "createdBy": [],
+    "ownedBy": [],
+    "collections": [11],
+    "coverPhoto": "images/creators/cover6.png"
+  },
+  {
+    "id": 7,
+    "title": "Mystic Owls",
+    "avatar": "images/creators/creator7.png",
+    "totalSales": 73.91,
+    "volume": "500k",
+    "followers": [],
+    "bio": "",
+    "links": {
+      "website": "https://mysticowls.io",
+      "twitter": "https://twitter.com/mysticowls",
+      "discord": "https://discord.gg/mysticowls"
+    },
+    "createdBy": [],
+    "ownedBy": [],
+    "collections": [12, 13],
+    "coverPhoto": "images/creators/cover7.png"
+  },
+  {
+    "id": 8,
+    "title": "Raccoon Labs",
+    "avatar": "images/creators/creator8.png",
+    "totalSales": 22.14,
+    "volume": "98k",
+    "followers": [],
+    "bio": "",
+    "links": {
+      "website": "https://raccoonlabs.org",
+      "twitter": "https://twitter.com/raccoonlabs",
+      "discord": "https://discord.gg/raccoonlabs"
+    },
+    "createdBy": [],
+    "ownedBy": [],
+    "collections": [14, 15],
+    "coverPhoto": "images/creators/cover8.png"
+  },
+  {
+    "id": 9,
+    "title": "Crypto Critters",
+    "avatar": "images/creators/creator9.png",
+    "totalSales": 19.50,
+    "volume": "135k",
+    "followers": [],
+    "bio": "",
+    "links": {
+      "website": "https://cryptocritters.io",
+      "twitter": "https://twitter.com/cryptocritters",
+      "discord": "https://discord.gg/cryptocritters"
+    },
+    "createdBy": [],
+    "ownedBy": [],
+    "collections": [16],
+    "coverPhoto": "images/creators/cover9.png"
+  },
+  {
+    "id": 10,
+    "title": "Fantasy Tails",
+    "avatar": "images/creators/creator10.png",
+    "totalSales": 88.32,
+    "volume": "620k",
+    "followers": [],
+    "bio": "",
+    "links": {
+      "website": "https://fantasytails.com",
+      "twitter": "https://twitter.com/fantasytails",
+      "discord": "https://discord.gg/fantasytails"
+    },
+    "createdBy": [],
+    "ownedBy": [],
+    "collections": [17, 18],
+    "coverPhoto": "images/creators/cover10.png"
+  },
+  {
+    "id": 11,
+    "title": "Tech Turtles",
+    "avatar": "images/creators/creator11.png",
+    "totalSales": 39.44,
+    "volume": "270k",
+    "followers": [],
+    "bio": "",
+    "links": {
+      "website": "https://techturtles.io",
+      "twitter": "https://twitter.com/techturtles",
+      "discord": "https://discord.gg/techturtles"
+    },
+    "createdBy": [],
+    "ownedBy": [],
+    "collections": [19],
+    "coverPhoto": "images/creators/cover11.png"
+  },
+  {
+    "id": 12,
+    "title": "VR Beasts",
+    "avatar": "images/creators/creator12.png",
+    "totalSales": 51.25,
+    "volume": "330k",
+    "followers": [],
+    "bio": "",
+    "links": {
+      "website": "https://vrbeasts.net",
+      "twitter": "https://twitter.com/vrbeasts",
+      "discord": "https://discord.gg/vrbeasts"
+    },
+    "createdBy": [],
+    "ownedBy": [],
+    "collections": [20, 21],
+    "coverPhoto": "images/creators/cover12.png"
+  }
+]
